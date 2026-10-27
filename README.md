@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=180&section=header&text=Khandoker%20Md.%20Ragib%20Ahsan&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=CS%20student%20at%20BRAC%20University&descAlignY=58&descSize=18" alt="Khandoker Md. Ragib Ahsan" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=200&section=header&text=Khandoker%20Md.%20Ragib%20Ahsan&fontSize=38&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=CS%20student%20at%20BRAC%20University&descAlignY=60&descSize=18" alt="Khandoker Md. Ragib Ahsan" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hello%2C+I+am+Khandoker+Md.+Ragib+Ahsan;Data+Scientist;Machine+Learning+Engineer;Full+Stack+Web+Developer" alt="Typing animation" />
+
+<br/>
 
 <img src="https://img.shields.io/badge/Data%20Science-0EA5E9?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Science" />
 <img src="https://img.shields.io/badge/Machine%20Learning-8B5CF6?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
@@ -51,8 +55,8 @@ I enjoy exploring data, building intelligent systems, and creating user-friendly
 
 ## Education
 
-| Level | Institution | Period |
+| Level | Institution |
 |---|---|---|
-| B.Sc. in Computer Science | BRAC University | Expected Dec 2026 |
-| HSC | Cantonment Public School and College, Saidpur | |
-| SSC | Adarsha High School, Birampur | |
+| B.Sc. in Computer Science | BRAC University |
+| HSC | Cantonment Public School and College, Saidpur |
+| SSC | Adarsha High School, Birampur |

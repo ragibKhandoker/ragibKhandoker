@@ -1,10 +1,17 @@
-# Khandoker Md. Ragib Ahsan
+<div align="center">
 
-Data Science | Machine Learning | Full-Stack
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18&height=120&section=header&text=Khandoker%20Md.%20Ragib%20Ahsan&fontSize=36&fontColor=ffffff&fontAlignY=50" alt="Khandoker Md. Ragib Ahsan" width="100%" />
 
-CS student at BRAC University (B.Sc. CS, expected Dec 2026), based in Bangladesh.
+![Data Science](https://img.shields.io/badge/Data%20Science-0EA5E9?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-8B5CF6?style=for-the-badge)
+![Full-Stack](https://img.shields.io/badge/Full--Stack-EC4899?style=for-the-badge)
 
-📧 [ragibahsan@gmail.com](mailto:ragibahsan@gmail.com) · 🔗 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
+**CS student at BRAC University**
+
+<a href="mailto:ragibahsan@gmail.com"><img src="https://img.shields.io/badge/Email-ragibahsan%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
+</div>
 
 ---
 
@@ -38,7 +45,6 @@ I enjoy exploring data, building intelligent systems, and creating user-friendly
 | **Data Analysis Dashboard** | Exploratory data analysis and visualisation of real-world datasets. | Python, Pandas, Matplotlib |
 | **Personal Portfolio** | Responsive portfolio with a dark interface. | Next.js, TypeScript, CSS |
 
-All repositories: [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME?tab=repositories)
 
 ---
 

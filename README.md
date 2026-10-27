@@ -1,15 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18&height=120&section=header&text=Khandoker%20Md.%20Ragib%20Ahsan&fontSize=36&fontColor=ffffff&fontAlignY=50" alt="Khandoker Md. Ragib Ahsan" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=180&section=header&text=Khandoker%20Md.%20Ragib%20Ahsan&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=CS%20student%20at%20BRAC%20University&descAlignY=58&descSize=18" alt="Khandoker Md. Ragib Ahsan" width="100%" />
 
-![Data Science](https://img.shields.io/badge/Data%20Science-0EA5E9?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-8B5CF6?style=for-the-badge)
-![Full-Stack](https://img.shields.io/badge/Full--Stack-EC4899?style=for-the-badge)
+<img src="https://img.shields.io/badge/Data%20Science-0EA5E9?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Science" />
+<img src="https://img.shields.io/badge/Machine%20Learning-8B5CF6?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
+<img src="https://img.shields.io/badge/Full--Stack%20Web%20Developer-EC4899?style=for-the-badge&logo=react&logoColor=white" alt="Full-Stack Web Developer" />
 
-**CS student at BRAC University**
+<br/><br/>
 
-<a href="mailto:ragibahsan@gmail.com"><img src="https://img.shields.io/badge/Email-ragibahsan%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="YOUR_PORTFOLIO_LINK">
+  <img src="https://img.shields.io/badge/Visit%20my%20portfolio-%E2%86%92-0F172A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=38BDF8" alt="Visit my portfolio" />
+</a>
 
 </div>
 

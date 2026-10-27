@@ -1,8 +1,6 @@
 <div align="center">
-
-<div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&background=0D1117&center=true&vCenter=true&width=720&height=60&lines=Hello%2C+I+am+Khandoker+Md.+Ragib+Ahsan;Data+Scientist;Machine+Learning+Engineer;Full+Stack+Web+Developer" 
+    src="https://js-readme-typing-svg.vercel.app/svg?fontFamily=Fira+Code&fontSize=24&fontWeight=600&color=38BDF8&background=0D1117&width=720&height=60&horizontalAlign=center&verticalAlign=middle&cursorStyle=none&repeat=true&lines=Hello,+I+am+Khandoker+Md.+Ragib+Ahsan;Data+Scientist;Machine+Learning+Engineer;Full+Stack+Web+Developer" 
     alt="Typing animation"
     style="border: 2px solid #38BDF8; border-radius: 12px; padding: 8px; box-shadow: 0 0 12px rgba(56, 189, 248, 0.3);"
   />

@@ -1,43 +1,26 @@
 <div align="center">
-  
-  <!-- Typing Animation -->
-  <img
-    src="https://js-readme-typing-svg.vercel.app/svg?fontFamily=Fira+Code&fontSize=26&fontWeight=600&color=38BDF8&background=0D1117&width=750&height=65&horizontalAlign=center&verticalAlign=middle&cursorStyle=none&repeat=true&lines=Hello,+I+am+Khandoker+Md.+Ragib+Ahsan;Data+Scientist+%7C+ML+Engineer;Full+Stack+Web+Developer"
-    alt="Typing animation"
-    style="border: 2px solid #38BDF8; border-radius: 14px; padding: 10px; box-shadow: 0 0 18px rgba(56, 189, 248, 0.35);"
-  />
 
-  <br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Khandoker%20Md.%20Ragib%20Ahsan&fontSize=38&fontColor=ffffff&fontAlignY=32&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Full%20Stack%20Web%20Developer&descAlignY=54&descSize=14&animation=fadeIn" alt="Header" width="100%" />
 
-  <!-- Role Badges -->
-  <img src="https://img.shields.io/badge/Data%20Science-0EA5E9?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Science" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-8B5CF6?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Full--Stack%20Developer-EC4899?style=for-the-badge&logo=react&logoColor=white" alt="Full-Stack Developer" />
-
-  <br/><br/>
-
-  <!-- Portfolio Button -->
-  <a href="YOUR_PORTFOLIO_LINK">
-    <img src="https://img.shields.io/badge/Visit%20my%20Portfolio-%E2%86%92-0F172A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=38BDF8" alt="Visit my portfolio" />
-  </a>
+<a href="YOUR_PORTFOLIO_LINK">
+  <img src="https://img.shields.io/badge/Visit%20my%20Portfolio-%E2%86%92-0F172A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=38BDF8" alt="Visit my portfolio" />
+</a>
 
 </div>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" /> About Me
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="26" align="absmiddle" /> About Me
 
-I love exploring data, building intelligent systems, and creating clean, user-friendly web applications that solve real-world problems.
+I enjoy exploring data, building intelligent systems, and creating user-friendly web applications that solve real-world problems. My work covers collecting and cleaning data, analysis and visualisation, training and evaluating machine-learning models, and building web apps with React, Next.js and Node.js.
 
-My work spans the full journey — from collecting & cleaning data, analysis & visualisation, training & evaluating machine learning models, to building modern web apps with **React**, **Next.js** and **Node.js**.
-
-- **Interests:** Machine Learning • Data Science • Scalable Web Systems  
-- **Focus:** Data Scientist • ML Engineer • Full Stack Developer  
-- **Open to:** Internships, collaborations, or just a friendly chat  
+- **Interests:** Machine Learning, Data Science, scalable web systems
+- **Role focus:** Data Scientist, ML Engineer, Full Stack Web Developer
+- **Open to:** Internships, collaborations, or a friendly chat
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="28" /> Tech Stack
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="24" align="absmiddle" /> Tech Stack
 
 **Languages**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -80,7 +63,7 @@ My work spans the full journey — from collecting & cleaning data, analysis & v
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" /> Projects
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Projects" width="24" align="absmiddle" /> Projects
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
@@ -91,7 +74,7 @@ My work spans the full journey — from collecting & cleaning data, analysis & v
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Education" width="28" /> Education
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Education" width="24" align="absmiddle" /> Education
 
 | Level | Institution |
 |:------|:------------|
@@ -102,7 +85,6 @@ My work spans the full journey — from collecting & cleaning data, analysis & v
 ---
 
 <div align="center">
-  <br/>
   <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="Thanks" />
   <br/><br/>
   <i>Feel free to connect with me!</i>

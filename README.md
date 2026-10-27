@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=200&section=header&text=Khandoker%20Md.%20Ragib%20Ahsan&fontSize=38&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=CS%20student%20at%20BRAC%20University&descAlignY=60&descSize=18" alt="Khandoker Md. Ragib Ahsan" width="100%" />
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hello%2C+I+am+Khandoker+Md.+Ragib+Ahsan;Data+Scientist;Machine+Learning+Engineer;Full+Stack+Web+Developer" alt="Typing animation" />
 
 <br/>

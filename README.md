@@ -1,14 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Assalamualaikum&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=I%20am%20Khandoker%20Md.%20Ragib%20Ahsan&descAlignY=52&descAlign=50&descSize=20" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=160&section=header&text=Assalamualaikum&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=I%20am%20Khandoker%20Md.%20Ragib%20Ahsan&descAlignY=62&descAlign=50&descSize=20" width="100%" alt="Header" />
 </div>
-
-<br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1000&color=667EEA&center=true&vCenter=true&width=900&height=80&lines=Data+Scientist;Full+Stack+Web+Developer;Machine+Learning+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1000&color=667EEA&center=true&vCenter=true&width=600&height=45&lines=Data+Scientist;Full+Stack+Web+Developer;Machine+Learning+Engineer" alt="Typing SVG" />
 </div>
-
-<br/>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Data%20Science-FF6B6B?style=for-the-badge&logo=python&logoColor=white" alt="Data Science" />

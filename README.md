@@ -1,5 +1,23 @@
-<h2 align="center">Assalamualaikum, I am Khandoker Md. Ragib Ahsan, an Aspiring Data Scientist passionate about Machine Learning, AI & Full Stack Development.</h2>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Assalamualaikum&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=I%20am%20Khandoker%20Md.%20Ragib%20Ahsan&descAlignY=55&descAlign=center&descSize=22" alt="Header" />
+</div>
 
+<br/>
+
+<div align="center">
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=Aspiring+Data+Scientist+%7C+ML+%26+AI+Enthusiast;Full+Stack+Developer+%7C+Building+Intelligent+Systems" alt="Typing SVG" />
+  </h1>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Data%20Science-FF6B6B?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-4ECDC4?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-45B7D1?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full%20Stack-96CEB4?style=for-the-badge&logo=react&logoColor=white" />
+</div>
 ###
 <h4 align="left">
 🔭 I'm currently working on Data Science projects & Full Stack applications<br>

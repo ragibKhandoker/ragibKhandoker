@@ -3,14 +3,14 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1000&color=667EEA&center=true&vCenter=true&width=600&height=45&lines= I am a Data+Scientist;Full+Stack+Web+Developer;Machine+Learning+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1000&color=667EEA&center=true&vCenter=true&width=600&height=45&lines=Data+Scientist;Full+Stack+Web+Developer;Machine+Learning+Engineer" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Data%20Science-FF6B6B?style=for-the-badge&logo=python&logoColor=white" alt="Data Science" />
   <img src="https://img.shields.io/badge/Machine%20Learning-4ECDC4?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-45B7D1?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
-  <img src="https://img.shields.io/badge/Full%20Stack-96CEB4?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-45B7D1?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence" />
+  <img src="https://img.shields.io/badge/Full%20Stack-96CEB4?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack Development" />
   <img src="https://img.shields.io/badge/Vibe%20Coder-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="Vibe Coder" />
 </div>
 
@@ -19,11 +19,11 @@
 ### 👨‍💻 About Me
 
 - 🔭 Currently working on Data Science projects and Full Stack applications.
-- 🌱 Learning Advanced Machine Learning, Deep Learning and Generative AI.
-- 📱 Experienced with PERN, MERN, MEAN, MEVN, Next.js, Flask, Django, ASP.NET, Spring Boot, Angular and Vue.js.
-- 🚀 Building scalable web platforms and data-driven systems.
-- ❓ Ask me about Neon, Supabase, Docker and Kubernetes.
-- ⚡ Fun fact: I love turning complex data into intelligent solutions.
+- 🌱 Learning Advanced Machine Learning, Deep Learning, and Generative AI.
+- 📱 Familiar with PERN, MERN, MEAN, MEVN, Next.js, Flask, Django, ASP.NET, Spring Boot, Angular, and Vue.js.
+- 🚀 Passionate about building scalable web applications and data-driven solutions.
+- ❓ Ask me about Neon, Supabase, Docker, and Kubernetes.
+- ⚡ Fun fact: I love transforming complex data into intelligent solutions.
 
 <br/>
 
@@ -55,7 +55,7 @@
     </td>
     <td align="center" valign="top" width="33%">
       <h3>🛠️ DevOps &amp; Cloud</h3>
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vercel" alt="DevOps" />
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vercel" alt="DevOps and Cloud" />
       <br/>
       <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
     </td>

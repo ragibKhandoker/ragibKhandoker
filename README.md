@@ -1,13 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Assalamualaikum&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=I%20am%20Khandoker%20Md.%20Ragib%20Ahsan&descAlignY=55&descAlign=center&descSize=22" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Assalamualaikum&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=I%20am%20Khandoker%20Md.%20Ragib%20Ahsan&descAlignY=52&descAlign=center&descSize=20" width="100%" alt="Header" />
 </div>
 
 <br/>
 
 <div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=Aspiring+Data+Scientist+%7C+ML+%26+AI+Enthusiast;Full+Stack+Developer+%7C+Building+Intelligent+Systems" alt="Typing SVG" />
-  </h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=900&height=80&lines=Aspiring+Data+Scientist+%7C+ML+%26+AI+Enthusiast;Full+Stack+Developer+%7C+Building+Intelligent+Systems" alt="Typing SVG" />
 </div>
 
 <br/>

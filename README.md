@@ -20,7 +20,7 @@
 
 - 🔭 Currently working on Data Science projects and Full Stack applications.
 - 🌱 Learning Advanced Machine Learning, Deep Learning, and Generative AI.
-- 📱 Familiar with PERN, MERN, MEAN, MEVN, Next.js, Flask, Django, ASP.NET, Spring Boot, Angular, and Vue.js.
+- 📱 Familiar with PERN, MERN, MEAN, MEVN, Next.js, Flask, Django, ASP.NET, Spring Boot.
 - 🚀 Passionate about building scalable web applications and data-driven solutions.
 - ❓ Ask me about Neon, Supabase, Docker, and Kubernetes.
 - ⚡ Fun fact: I love transforming complex data into intelligent solutions.
